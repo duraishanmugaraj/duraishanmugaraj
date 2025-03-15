@@ -5,7 +5,7 @@ I'm a **Data Engineer** with 3 years of experience in building **scalable data p
 
 - 🔭 Currently working at **LTIMindtree** (Client: Citi Bank)
 - 💡 Interested in **Data Engineering, Big Data, Cloud Computing, and DSA**
-- 📫 Reach me at [Email](mailto:duraishanmugaraj.r@gmail.com) | [LinkedIn](https://www.linkedin.com/in/duraishanmugaraj/) | [GitHub](https://github.com/duraishanmugaraj)
+- 📫 Reach me at [Email](mailto:duraishanmugaraj.r@gmail.com) | [LinkedIn](https://www.linkedin.com/in/duraishanmugaraj/)
 
 ---
 
@@ -43,5 +43,4 @@ I'm a **Data Engineer** with 3 years of experience in building **scalable data p
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/duraishanmugaraj/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/duraishanmugaraj)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:duraishanmugaraj.r@gmail.com)
