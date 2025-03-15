@@ -4,7 +4,6 @@
 I'm a **Data Engineer** with 3 years of experience in building **scalable data pipelines, ETL processes, and data warehouse solutions**. I specialize in **Big Data Technologies** like **Apache Spark, PySpark, Hive, and AWS**. Passionate about optimizing data workflows and solving complex data challenges.
 
 - 🔭 Currently working at **LTIMindtree** (Client: Citi Bank)
-- 🌱 Exploring **AI concepts, Generative AI, and Spark Optimizations**
 - 💡 Interested in **Data Engineering, Big Data, Cloud Computing, and DSA**
 - 📫 Reach me at [Email](mailto:duraishanmugaraj.r@gmail.com) | [LinkedIn](https://www.linkedin.com/in/duraishanmugaraj/) | [GitHub](https://github.com/duraishanmugaraj)
 
